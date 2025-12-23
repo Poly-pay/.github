@@ -251,25 +251,11 @@ PolyPay is currently in private development. We welcome feedback and partnership
 
 ## Resources
 
-- 🌐 [Website](https://polypay.io)
-- 🐦 [Twitter/X](https://twitter.com/polypay)
+- 🌐 [Website](https://polypay.io](https://polypay-frontend-735388681672.asia-southeast1.run.app/dashboard))
+- 🐦 [Twitter/X](https://twitter.com/polypay](https://x.com/poly_pay))
 - 📖 [Horizen Documentation](https://horizen-2-docs.horizen.io/)
 - 📖 [zkVerify Documentation](https://docs.zkverify.io/)
 - 📧 Contact: [Coming Soon]
 
----
 
-## License
-
-[License information to be added]
-
----
-
-<div align="center">
-
-**Built with privacy by default. Powered by Horizen.**
-
-*Accelerating mainstream crypto adoption through private, compliant on-chain payments*
-
-</div>
 
