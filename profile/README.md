@@ -2,8 +2,8 @@
 
 > Privacy-preserving payroll platform built on Horizen
 
-[![Website](https://img.shields.io/badge/Website-polypay.io-blue)](https://polypay.io)
-[![Twitter](https://img.shields.io/badge/Twitter-@polypay-1DA1F2)](https://twitter.com/polypay)
+[![Website](https://img.shields.io/badge/Website-polypay.io-blue)]([https://polypay.io](https://polypay-frontend-735388681672.asia-southeast1.run.app/dashboard))
+[![Twitter](https://img.shields.io/badge/Twitter-@polypay-1DA1F2)]([https://twitter.com/polypay](https://x.com/poly_pay))
 [![Status](https://img.shields.io/badge/Status-Beta%20v0.1-yellow)]()
 
 ---
