@@ -251,8 +251,8 @@ PolyPay is currently in private development. We welcome feedback and partnership
 
 ## Resources
 
-- 🌐 [Website](https://polypay.io](https://polypay-frontend-735388681672.asia-southeast1.run.app/dashboard))
-- 🐦 [Twitter/X](https://twitter.com/polypay](https://x.com/poly_pay))
+- 🌐 [Website](https://polypay-frontend-735388681672.asia-southeast1.run.app/dashboard)
+- 🐦 [Twitter/X](https://x.com/poly_pay)
 - 📖 [Horizen Documentation](https://horizen-2-docs.horizen.io/)
 - 📖 [zkVerify Documentation](https://docs.zkverify.io/)
 - 📧 Contact: [Coming Soon]
